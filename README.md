@@ -7,5 +7,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bennynottonsonschool&show_icons=true&locale=en&layout=compact" alt="bennynottonsonschool" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bennynottonsonschool&show_icons=true&locale=en" alt="bennynottonsonschool" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bennynottonsonschool&" alt="bennynottonsonschool" /></p>
