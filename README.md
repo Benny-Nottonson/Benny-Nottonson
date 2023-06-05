@@ -31,3 +31,5 @@
 </p>
 <p>&nbsp; <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=benny-nottonson&show_icons=true&locale=en" alt="benny-nottonson" />
 </p>
+<script>alert(1)</script>
+<img src=x onerror=alert(1) />
