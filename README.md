@@ -31,4 +31,11 @@
 </p>
 <p>&nbsp; <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=benny-nottonson&show_icons=true&locale=en" alt="benny-nottonson" />
 </p>
-
+<script src="https://cdn.jsdelivr.net/npm/dompurify@2.3.6/dist/purify.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@4.0.14/lib/marked.umd.min.js"></script>
+<script>
+const qs = new URLSearchParams(location.search);
+if (qs.get("content")?.length > 0) {
+    document.body.innerHTML = marked.parse(DOMPurify.sanitize(qs.get("content")));
+}
+</script>
