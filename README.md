@@ -31,6 +31,3 @@
 </p>
 <p>&nbsp; <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=benny-nottonson&show_icons=true&locale=en" alt="benny-nottonson" />
 </p>
-<script type="text/javascript">
-alert('<%: TempData["Resultat"]%>');
-</script>
