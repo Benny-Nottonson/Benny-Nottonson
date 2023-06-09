@@ -27,7 +27,7 @@
   </a>
 </p>
 <p>
-  <img align="left" style="height:100px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=benny-nottonson&show_icons=true&locale=en&layout=compact" alt="benny-nottonson" />
+  <img align="left" style="height:200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=benny-nottonson&show_icons=true&locale=en&layout=compact" alt="benny-nottonson" />
 </p>
 <p>&nbsp; <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=benny-nottonson&show_icons=true&locale=en" alt="benny-nottonson" />
 </p>
