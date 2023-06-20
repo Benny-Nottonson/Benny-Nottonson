@@ -1,4 +1,4 @@
-<div style='display: flex;flex-direction: column;align-items: center;justify-content: center;text-align: center;'>
+<div style='display:flex;flex-direction: column;align-items:center;justify-content:center;text-align:center;'>
   
   [![](https://visitcount.itsvg.in/api?id=Benny-Nottonson&icon=2&color=6)](https://visitcount.itsvg.in)
 
@@ -9,8 +9,8 @@
 
   # 📊 GitHub Stats:
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 70%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benny-Nottonson&theme=dark&hide_border=false" style="width: 70%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 70%;margin-top: 10px;margin-bottom: 10px;"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="height: 40%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benny-Nottonson&theme=dark&hide_border=false" style="height: 80%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 40%;margin-top: 10px;margin-bottom: 10px;"></img>
   </div>
 </div>
