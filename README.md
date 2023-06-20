@@ -9,8 +9,14 @@
 
   # 📊 GitHub Stats:
   <div style='display:flex;flex-direction: column;align-items:center;justify-content:center;text-align:center;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="height: 40%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benny-Nottonson&theme=dark&hide_border=false" style="height: 80%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 40%;margin-top: 10px;margin-bottom: 10px;"></img>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 40%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
+    </p>
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benny-Nottonson&theme=dark&hide_border=false" style="height: 80%;margin-top: 10px;margin-bottom: 10px;"></img><br/>
+    </p>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benny-Nottonson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 40%;margin-top: 10px;margin-bottom: 10px;"></img>
+    </p>
   </div>
 </div>
