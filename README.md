@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/112336374?v=4"  />
+<img align="right" height="150" src="https://static.wikia.nocookie.net/hollowknight/images/0/0d/Soul_Master_Idle.png/revision/latest?cb=20190107042742"  />
 
 ###
 
