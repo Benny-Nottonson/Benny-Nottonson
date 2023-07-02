@@ -14,7 +14,7 @@
 
 ###
 
-<div align="center" width="full">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -53,8 +53,6 @@
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Benny-Nottonson/Benny-Nottonson/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/Benny-Nottonson/Benny-Nottonson/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
