@@ -17,6 +17,7 @@
 ###
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/benny.n) 
+[![](https://visitcount.itsvg.in/api?id=Benny-Nottonson&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ###
 
