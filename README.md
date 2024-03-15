@@ -2,11 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-benny.vercel.app/api?username=Benny-Nottonson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-benny.vercel.app/api/top-langs?username=Benny-Nottonson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&exclude_repo=github-readme-stats,rumRunners,ni-site,whisperExample,awesome-mojo,mojo,Benny-Nottonson,seniorThesis,losal-dance-qwik,valterTennis,SpotifySort-TS,appLabWhitelistProxy,spotifySort-Qwik" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Benny-Nottonson&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+![](https://github-readme-stats-benny.vercel.app/api?username=Benny-Nottonson&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Benny-Nottonson&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats-benny.vercel.app/api/top-langs/?username=Benny-Nottonson&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
