@@ -1,11 +1,5 @@
 <h2>Hi 👋! My name is Benny and I'm a student from California</h2>
 
-<div style="text-align: center; width: 100%; align-items: center">
-  <img src="https://github-readme-stats-benny.vercel.app/api?username=Benny-Nottonson&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 50%;"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benny-Nottonson&theme=nord&hide_border=false" alt="GitHub Streaks" style="width: 50%;"><br/>
-  <img src="https://github-readme-stats-benny.vercel.app/api/top-langs/?username=Benny-Nottonson&exclude_repo=github-readme-stats&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 50%;">
-</div>
-
 
 <!-- Profile GIF -->
 <img align="right" height="150" src="https://user-images.githubusercontent.com/112336374/249853834-f45a6de8-b3c8-45f4-a419-719866833375.gif" alt="Profile GIF">
