@@ -1,4 +1,4 @@
-<h2>Hi 👋! My name is Benny</h2>
+<h2>Hi 👋! My name is Benny and im a Software Engineer</h2>
 
 
 <!-- Profile GIF -->
